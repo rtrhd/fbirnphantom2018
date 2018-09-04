@@ -18,7 +18,7 @@ You will need python (v3.5 or later) along with some standard numeric and scient
 
 Some specific packages are needed for this notebook other than the standard scientific libraries included in Anaconda. These are to provide access to specific file formats:
 
-* [pydicom](http://pydicom.readthedocs.io)
+* [pydicom](https://pydicom.github.io/pydicom)
 
 `pydicom` is  available in the `conda-forge` channel. 
 
